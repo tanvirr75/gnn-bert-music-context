@@ -1,0 +1,15 @@
+# data & artifacts — never commit these, they're huge and reproducible
+data/raw/
+data/processed/
+*.pt
+*.ckpt
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# secrets
+.env
+*.token
