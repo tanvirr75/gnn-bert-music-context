@@ -1,0 +1,26 @@
+{
+  "task1_bert_reference": 0.7272,
+  "task2_b1_majority": {
+    "macro_f1": 0.0,
+    "micro_f1": 0.0,
+    "pr_auc": 0.06532317636195753
+  },
+  "task2_b2_cnn_mel": {
+    "macro_f1": 0.2151895085936128,
+    "micro_f1": 0.22941725231668636,
+    "pr_auc": 0.18417235177153007
+  },
+  "task2_gnn_mtat": {
+    "macro_f1": 0.2648811467664451,
+    "micro_f1": 0.29125379460450196,
+    "pr_auc": 0.24835043453701416
+  },
+  "task2_gnn_gtzan_genre": {
+    "accuracy": 0.37,
+    "macro_f1": 0.37648856580036844
+  },
+  "task2_cnn_gtzan_genre": {
+    "accuracy": 0.34,
+    "macro_f1": 0.3088250861044892
+  }
+}
