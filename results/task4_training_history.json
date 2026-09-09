@@ -1,0 +1,162 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 3.432822700239654,
+    "caption_to_audio_R@1": 0.0012562813935801387,
+    "caption_to_audio_R@5": 0.007537688594311476,
+    "caption_to_audio_R@10": 0.02261306531727314,
+    "audio_to_caption_R@1": 0.0025125627871602774,
+    "audio_to_caption_R@5": 0.016331657767295837,
+    "audio_to_caption_R@10": 0.033919598907232285
+  },
+  {
+    "epoch": 2,
+    "train_loss": 3.2955510876117606,
+    "caption_to_audio_R@1": 0.003768844297155738,
+    "caption_to_audio_R@5": 0.02010050229728222,
+    "caption_to_audio_R@10": 0.035175878554582596,
+    "audio_to_caption_R@1": 0.006281407084316015,
+    "audio_to_caption_R@5": 0.02261306531727314,
+    "audio_to_caption_R@10": 0.04522613063454628
+  },
+  {
+    "epoch": 3,
+    "train_loss": 3.195398135062976,
+    "caption_to_audio_R@1": 0.005025125574320555,
+    "caption_to_audio_R@5": 0.02638190984725952,
+    "caption_to_audio_R@10": 0.04396985098719597,
+    "audio_to_caption_R@1": 0.01005025114864111,
+    "audio_to_caption_R@5": 0.032663315534591675,
+    "audio_to_caption_R@10": 0.04648241028189659
+  },
+  {
+    "epoch": 4,
+    "train_loss": 3.124014066834735,
+    "caption_to_audio_R@1": 0.006281407084316015,
+    "caption_to_audio_R@5": 0.027638191357254982,
+    "caption_to_audio_R@10": 0.04145728796720505,
+    "audio_to_caption_R@1": 0.007537688594311476,
+    "audio_to_caption_R@5": 0.031407035887241364,
+    "audio_to_caption_R@10": 0.06407035142183304
+  },
+  {
+    "epoch": 5,
+    "train_loss": 3.050143459923247,
+    "caption_to_audio_R@1": 0.008793969638645649,
+    "caption_to_audio_R@5": 0.02638190984725952,
+    "caption_to_audio_R@10": 0.04020100459456444,
+    "audio_to_caption_R@1": 0.006281407084316015,
+    "audio_to_caption_R@5": 0.028894472867250443,
+    "audio_to_caption_R@10": 0.057788945734500885
+  },
+  {
+    "epoch": 6,
+    "train_loss": 2.974015662812779,
+    "caption_to_audio_R@1": 0.007537688594311476,
+    "caption_to_audio_R@5": 0.028894472867250443,
+    "caption_to_audio_R@10": 0.0477386936545372,
+    "audio_to_caption_R@1": 0.003768844297155738,
+    "audio_to_caption_R@5": 0.035175878554582596,
+    "audio_to_caption_R@10": 0.060301508754491806
+  },
+  {
+    "epoch": 7,
+    "train_loss": 2.8776970541375313,
+    "caption_to_audio_R@1": 0.008793969638645649,
+    "caption_to_audio_R@5": 0.033919598907232285,
+    "caption_to_audio_R@10": 0.05025125667452812,
+    "audio_to_caption_R@1": 0.005025125574320555,
+    "audio_to_caption_R@5": 0.028894472867250443,
+    "audio_to_caption_R@10": 0.0477386936545372
+  },
+  {
+    "epoch": 8,
+    "train_loss": 2.778639642091898,
+    "caption_to_audio_R@1": 0.006281407084316015,
+    "caption_to_audio_R@5": 0.02638190984725952,
+    "caption_to_audio_R@10": 0.05025125667452812,
+    "audio_to_caption_R@1": 0.0025125627871602774,
+    "audio_to_caption_R@5": 0.027638191357254982,
+    "audio_to_caption_R@10": 0.054020099341869354
+  },
+  {
+    "epoch": 9,
+    "train_loss": 2.6537020231923485,
+    "caption_to_audio_R@1": 0.006281407084316015,
+    "caption_to_audio_R@5": 0.032663315534591675,
+    "caption_to_audio_R@10": 0.055276382714509964,
+    "audio_to_caption_R@1": 0.01005025114864111,
+    "audio_to_caption_R@5": 0.02638190984725952,
+    "audio_to_caption_R@10": 0.060301508754491806
+  },
+  {
+    "epoch": 10,
+    "train_loss": 2.5474009310078416,
+    "caption_to_audio_R@1": 0.008793969638645649,
+    "caption_to_audio_R@5": 0.028894472867250443,
+    "caption_to_audio_R@10": 0.04899497330188751,
+    "audio_to_caption_R@1": 0.0025125627871602774,
+    "audio_to_caption_R@5": 0.036432161927223206,
+    "audio_to_caption_R@10": 0.06281407177448273
+  },
+  {
+    "epoch": 11,
+    "train_loss": 2.435481293588622,
+    "caption_to_audio_R@1": 0.008793969638645649,
+    "caption_to_audio_R@5": 0.032663315534591675,
+    "caption_to_audio_R@10": 0.05025125667452812,
+    "audio_to_caption_R@1": 0.005025125574320555,
+    "audio_to_caption_R@5": 0.028894472867250443,
+    "audio_to_caption_R@10": 0.057788945734500885
+  },
+  {
+    "epoch": 12,
+    "train_loss": 2.315436508411016,
+    "caption_to_audio_R@1": 0.0025125627871602774,
+    "caption_to_audio_R@5": 0.02261306531727314,
+    "caption_to_audio_R@10": 0.04648241028189659,
+    "audio_to_caption_R@1": 0.005025125574320555,
+    "audio_to_caption_R@5": 0.028894472867250443,
+    "audio_to_caption_R@10": 0.05025125667452812
+  },
+  {
+    "epoch": 13,
+    "train_loss": 2.15939423823968,
+    "caption_to_audio_R@1": 0.005025125574320555,
+    "caption_to_audio_R@5": 0.02512562833726406,
+    "caption_to_audio_R@10": 0.03894472494721413,
+    "audio_to_caption_R@1": 0.003768844297155738,
+    "audio_to_caption_R@5": 0.02638190984725952,
+    "audio_to_caption_R@10": 0.05276381969451904
+  },
+  {
+    "epoch": 14,
+    "train_loss": 2.066707568290906,
+    "caption_to_audio_R@1": 0.006281407084316015,
+    "caption_to_audio_R@5": 0.031407035887241364,
+    "caption_to_audio_R@10": 0.05276381969451904,
+    "audio_to_caption_R@1": 0.003768844297155738,
+    "audio_to_caption_R@5": 0.027638191357254982,
+    "audio_to_caption_R@10": 0.05150753632187843
+  },
+  {
+    "epoch": 15,
+    "train_loss": 1.953386820279635,
+    "caption_to_audio_R@1": 0.007537688594311476,
+    "caption_to_audio_R@5": 0.035175878554582596,
+    "caption_to_audio_R@10": 0.05276381969451904,
+    "audio_to_caption_R@1": 0.0,
+    "audio_to_caption_R@5": 0.02638190984725952,
+    "audio_to_caption_R@10": 0.060301508754491806
+  },
+  {
+    "epoch": 16,
+    "train_loss": 1.8782054680025475,
+    "caption_to_audio_R@1": 0.003768844297155738,
+    "caption_to_audio_R@5": 0.02638190984725952,
+    "caption_to_audio_R@10": 0.056532662361860275,
+    "audio_to_caption_R@1": 0.0025125627871602774,
+    "audio_to_caption_R@5": 0.030150754377245903,
+    "audio_to_caption_R@10": 0.06281407177448273
+  }
+]

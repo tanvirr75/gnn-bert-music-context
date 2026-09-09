@@ -67,11 +67,8 @@ def train_task1(train_df, val_df, test_df, top_50_tags, device, num_epochs=25, p
         val_metrics = evaluate(model, val_loader, device)
         avg_train_loss = total_loss / len(train_loader)
         history.append({
-            "epoch": epoch + 1,
-            "train_loss": avg_train_loss,
-            "val_macro_f1": val_metrics["macro_f1"],
-            "val_micro_f1": val_metrics["micro_f1"],
-            "val_pr_auc": val_metrics["pr_auc"],
+            "epoch": epoch + 1, "train_loss": avg_train_loss,
+            "val_macro_f1": val_metrics["macro_f1"], "val_micro_f1": val_metrics["micro_f1"], "val_pr_auc": val_metrics["pr_auc"],
         })
 
         print(f"Epoch {epoch+1} | train loss: {avg_train_loss:.4f} | "

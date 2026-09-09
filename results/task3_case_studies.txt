@@ -1,0 +1,12 @@
+Case study 1 (test index 640)
+Caption: synth new age
+True tags: ['slow', 'ambient', 'synth', 'new age']
+
+Case study 2 (test index 3290)
+Caption: beat loud
+True tags: ['techno', 'electronic', 'beat', 'loud']
+
+Case study 3 (test index 2262)
+Caption: strings flute
+True tags: ['classical', 'strings', 'violin', 'flute']
+

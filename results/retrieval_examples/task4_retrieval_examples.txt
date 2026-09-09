@@ -1,0 +1,50 @@
+Example 1
+  Query: Encouraging gospel music featuring a women's choir, hand clapping, female background shouting, and a lead female vocalist. The choir is accompanied by a band vamping on one chord with an organist, heavy drumkit, and a syncopated bassline. Would fit in a southern spiritual service.
+  True match: 7fVfG0DrLjI.wav (rank 489)
+  Top-3 retrieved: ['ksImihlU3qM.wav', '0a6uLBmqZgA.wav', 'BL181hSAG60.wav']
+
+Example 2
+  Query: This is an instrumental piece carrying the characteristics of Carnatic music. An acoustic guitar is being played sideways to reach the musical effect of a tambura. The piece could be used as a soundtrack in movies/shows that take place in India.
+  True match: pHzjKCj9INw.wav (rank 32)
+  Top-3 retrieved: ['yKx_RFUTPfI.wav', '7IllUjk5fk0.wav', '1lgqqW5TsJk.wav']
+
+Example 3
+  Query: Heavily processed girl band with multiple female singers in a pop or R&B style, using autotune, vocal hocketing, and melisma with multiple synthesizers accompanying.
+  True match: xydcedfPePM.wav (rank 289)
+  Top-3 retrieved: ['pWHkmo9Kn8g.wav', 'BXv69uAoHk4.wav', '4kKVGPDCIK8.wav']
+
+Example 4
+  Query: Female singers sing in funny animated vocals. The song is medium tempo with a groovy bass line, keyboard accompaniment, arpeggiated harmony tones and steady drumming rhythm. The song is cheerful and energetic. The audio quality is average.
+  True match: dEc7tV30KJo.wav (rank 76)
+  Top-3 retrieved: ['ckOe-8qdaew.wav', 'f5eMUCSZCjc.wav', 'PN3Lx8RutmI.wav']
+
+Example 5
+  Query: A male vocalist sings this mellow song.he tempo is medium with jazz style piano accompaniment, synthesiser articulation, slick drumming, funky bass line, cajun beat and an interactive vocal harmony. The music is mellow, soothing, ambient, soulful, passionate, emotional and persuasive. This song is a contemporary R&B/Soul.
+  True match: C0AQyOVGvFM.wav (rank 289)
+  Top-3 retrieved: ['W_MZo88gzrA.wav', 'EJMUwh1vY2s.wav', 'b8okzVltB5Q.wav']
+
+Example 6
+  Query: We hear a vintage middle eastern traditional song. The instrument is an old flute, and we have an elderly man singing. There's a crackling sound throughout the  recording.
+  True match: B5XTBvnpwqU.wav (rank 214)
+  Top-3 retrieved: ['lDABsoatahM.wav', 'kSdH9z8snac.wav', 'BXo1Tr_oJds.wav']
+
+Example 7
+  Query: Someone is strumming chords on a guitar while someone else is playing a melody using a harmonica. This song sounds like sitting around  a bonfire.
+  True match: F8wGRd9332s.wav (rank 216)
+  Top-3 retrieved: ['0ZNFJz-eZTU.wav', '8dE1x--TuF8.wav', 'qFo_gRhW6dQ.wav']
+
+Example 8
+  Query: The low quality recording features a cover that consists of a muffled tuba melody. The recording is very noisy, in mono - as it was probably recorded with a phone, but it sounds happy and fun.
+  True match: Du3Q6NdsSso.wav (rank 15)
+  Top-3 retrieved: ['c4ftOyl3j_Y.wav', 'YjTz5y8DnWo.wav', 'l-RdHtsYWBY.wav']
+
+Example 9
+  Query: The acoustic drums are playing a groove with crash hits and a bass that sounds distorted while a female voice is singing. Then a male singer with an effect on his voice is almost screaming while an e-guitar is playing a melody. This song may be playing in a rock&roll bar.
+  True match: hSK405L-DlQ.wav (rank 199)
+  Top-3 retrieved: ['66B46E_hrrk.wav', 'f6wrXzvByrg.wav', 'o-ZTQP5CFCg.wav']
+
+Example 10
+  Query: A female opera singer sings this soprano melody. The tempo is slow with an ethereal violin symphony accompaniment. The song is mellifluous , soft, enchanting, enigmatic, mystical, ethereal,celestial and dreamy. This is a Classic Opera.
+  True match: Ha-FS_CHmGw.wav (rank 22)
+  Top-3 retrieved: ['MpS2SSIhe2g.wav', 'eayGg2OlHOw.wav', '8q0An6WY7_c.wav']
+
